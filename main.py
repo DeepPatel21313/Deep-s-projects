@@ -223,4 +223,4 @@ async def on_message(message):
                                    "next\n"
                                    "reset")
 
-client.run("MTE0MzcwNDUzNDI4NDI0MzA1NQ.GzaVNn.Z0Yz8IqR2-d6Cmay_N6DJ8iUgHBCFiOzoky5B0")
+client.run("")
